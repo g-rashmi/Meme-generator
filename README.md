@@ -1,10 +1,10 @@
 # Meme Generator
-
+9
 This is a simple web application that generates random jokes and displays them as memes.
 
 ## Preview
 
-![Meme Generator Preview](https://ibb.co/YjG0Kc6)
+![Meme Generator Preview](meme (1).png)
 
 ## Technologies Used
 
