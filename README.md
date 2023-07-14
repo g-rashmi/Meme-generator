@@ -4,7 +4,7 @@ This is a simple web application that generates random jokes and displays them a
 
 ## Preview
 
-![Meme Generator Preview](meme (1).png)
+![Meme Generator Preview](meme(1).png)
 
 ## Technologies Used
 
