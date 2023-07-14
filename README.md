@@ -31,4 +31,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to customize the README file according to your needs. You can add additional sections, such as "Installation" or "Contributing," if necessary. Also, remember to include any relevant information about dependencies or additional setup instructions.
 
-Note: Make sure to include a preview image (replace "preview.png" with the actual filename) to give users a visual representation of your meme generator.
